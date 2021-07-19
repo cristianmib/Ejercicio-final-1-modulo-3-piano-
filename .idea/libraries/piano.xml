@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="piano">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/piano.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
